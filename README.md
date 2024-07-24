@@ -12,10 +12,10 @@ Developed a real-time social distancing system with YOLOv3 for human detection, 
 Install the following model files:
 
 ```
-yolov3.cfg
-yolov3.weights
-SSD_MobileNet_prototxt.txt
-SSD_MobileNet.caffemodel
+yolov3.cfg (create a folder named models inside the YOLO folder and save this file inside it)
+yolov3.weights (create a folder named models inside the YOLO folder and save this file inside it)
+SSD_MobileNet_prototxt.txt (save inside SSD folder)
+SSD_MobileNet.caffemodel (save inside SSD folder)
 ```
 
 
